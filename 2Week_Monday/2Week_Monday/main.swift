@@ -35,3 +35,6 @@ print("Level:", myCheckPW.passwordValidator(password: "asdf1234"))
 
 // 연습문제4 - 주민번호 판별검사
 //print(practice4.socialNumber(input: "123456-1234567"))
+
+// 연습문제2 - 아이디 규칙검사
+print(myPatternIDcheck.IDValidator(password: "jason122"))
