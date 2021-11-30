@@ -4,7 +4,7 @@
 //
 //  Created by 이건행 on 2021/11/22.
 //
-
+/*
 import Foundation
 
 
@@ -76,3 +76,4 @@ struct specialBinary{
  "11100"
  ]
  */
+*/

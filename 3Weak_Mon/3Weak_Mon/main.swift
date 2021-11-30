@@ -15,6 +15,9 @@ import Foundation
 //print(sumedMatrix.a,sumedMatrix.b,sumedMatrix.c,sumedMatrix.d)
 //print(multipliedMatrix.a,multipliedMatrix.b,multipliedMatrix.c,multipliedMatrix.d)
 
-
+// 3. BubbleSort
+let myArr = BubbleSort(originArr: [4, 5, 2, 1, 3])
+print(myArr.sorted(isAscending: true))
+print(myArr.sorted(isAscending: false))
 
 
